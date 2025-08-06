@@ -1,3 +1,5 @@
+# Rodrigo Fuelber Franke
+
 import random as rand
 import math
 

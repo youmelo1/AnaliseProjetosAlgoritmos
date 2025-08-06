@@ -8,3 +8,6 @@ Implementar um programa com as seguintes funcionalidades:
 - Valores randômicos de 0 a 1500.
 - Os valores podem ser repetidos, não iremos tratar exceções. 
 - Não há necessidade de interface gráfica. 
+
+### Nome
+Rodrigo Fuelber Franke
