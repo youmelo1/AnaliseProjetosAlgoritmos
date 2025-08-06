@@ -5,7 +5,7 @@ RANDOM_QUANT = 1_000
 RANDOM_RANGE = 0, 1_500
 
 def generate_array() -> list[int]:
-    return [rand.randint(RANDOM_RANGE[0], RANDOM_RANGE[1]) for num in range (RANDOM_QUANT)]
+    return [rand.randint(RANDOM_RANGE[0], RANDOM_RANGE[1]) for _ in range (RANDOM_QUANT)]
 
 def quicksort(array_original: list[int]) -> list[int]:
     
@@ -49,14 +49,8 @@ def is_prime(number: int) -> bool:
         
     return True
 
-def find_primes(arr: list[int]) -> list[int]:
-    temp = []
-    
-    for num in arr:
-        if is_prime(num):
-            temp.append(num)
-    
-    return temp
+def find_primes(array: list[int]) -> list[int]:
+        return list(filter(is_prime, array))
 
 
 def opcoes():
