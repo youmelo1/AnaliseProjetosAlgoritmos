@@ -1,0 +1,522 @@
+{
+    "C1": [
+        {
+            "TOrdenar": "Tempo: 0.872 ms",
+            "TPrimos": "Tempo: 0.349 ms",
+            "Tempo Total": "Tempo: 1.789 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 0.937 ms",
+            "TPrimos": "Tempo: 0.348 ms",
+            "Tempo Total": "Tempo: 1.800 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 0.959 ms",
+            "TPrimos": "Tempo: 0.389 ms",
+            "Tempo Total": "Tempo: 1.855 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 0.851 ms",
+            "TPrimos": "Tempo: 0.359 ms",
+            "Tempo Total": "Tempo: 1.789 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 0.872 ms",
+            "TPrimos": "Tempo: 0.354 ms",
+            "Tempo Total": "Tempo: 1.771 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 0.898 ms",
+            "TPrimos": "Tempo: 0.356 ms",
+            "Tempo Total": "Tempo: 1.764 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 1.210 ms",
+            "TPrimos": "Tempo: 0.357 ms",
+            "Tempo Total": "Tempo: 2.164 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 0.890 ms",
+            "TPrimos": "Tempo: 0.387 ms",
+            "Tempo Total": "Tempo: 1.775 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 0.852 ms",
+            "TPrimos": "Tempo: 0.350 ms",
+            "Tempo Total": "Tempo: 1.688 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 0.851 ms",
+            "TPrimos": "Tempo: 0.352 ms",
+            "Tempo Total": "Tempo: 1.694 ms"
+        }
+    ],
+    "C2": [
+        {
+            "TOrdenar": "Tempo: 19.411 ms",
+            "TPrimos": "Tempo: 0.444 ms",
+            "Tempo Total": "Tempo: 20.354 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 19.960 ms",
+            "TPrimos": "Tempo: 0.371 ms",
+            "Tempo Total": "Tempo: 20.876 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 21.095 ms",
+            "TPrimos": "Tempo: 0.359 ms",
+            "Tempo Total": "Tempo: 21.951 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 20.610 ms",
+            "TPrimos": "Tempo: 0.350 ms",
+            "Tempo Total": "Tempo: 21.461 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 20.166 ms",
+            "TPrimos": "Tempo: 0.371 ms",
+            "Tempo Total": "Tempo: 21.088 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 19.516 ms",
+            "TPrimos": "Tempo: 0.367 ms",
+            "Tempo Total": "Tempo: 20.375 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 20.216 ms",
+            "TPrimos": "Tempo: 0.389 ms",
+            "Tempo Total": "Tempo: 21.125 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 25.062 ms",
+            "TPrimos": "Tempo: 0.354 ms",
+            "Tempo Total": "Tempo: 25.968 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 21.738 ms",
+            "TPrimos": "Tempo: 0.352 ms",
+            "Tempo Total": "Tempo: 22.733 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 19.790 ms",
+            "TPrimos": "Tempo: 0.350 ms",
+            "Tempo Total": "Tempo: 20.640 ms"
+        }
+    ],
+    "C3": [
+        {
+            "TOrdenar": "Tempo: 4.089 ms",
+            "TPrimos": "Tempo: 1.790 ms",
+            "Tempo Total": "Tempo: 8.356 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 4.052 ms",
+            "TPrimos": "Tempo: 1.803 ms",
+            "Tempo Total": "Tempo: 8.398 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 4.173 ms",
+            "TPrimos": "Tempo: 2.133 ms",
+            "Tempo Total": "Tempo: 8.904 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 5.031 ms",
+            "TPrimos": "Tempo: 1.838 ms",
+            "Tempo Total": "Tempo: 9.355 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 4.382 ms",
+            "TPrimos": "Tempo: 1.806 ms",
+            "Tempo Total": "Tempo: 8.659 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 3.948 ms",
+            "TPrimos": "Tempo: 1.747 ms",
+            "Tempo Total": "Tempo: 8.331 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 4.182 ms",
+            "TPrimos": "Tempo: 1.822 ms",
+            "Tempo Total": "Tempo: 8.853 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 4.088 ms",
+            "TPrimos": "Tempo: 1.816 ms",
+            "Tempo Total": "Tempo: 8.389 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 4.413 ms",
+            "TPrimos": "Tempo: 1.759 ms",
+            "Tempo Total": "Tempo: 8.858 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 4.286 ms",
+            "TPrimos": "Tempo: 1.759 ms",
+            "Tempo Total": "Tempo: 8.797 ms"
+        }
+    ],
+    "C4": [
+        {
+            "TOrdenar": "Tempo: 231.061 ms",
+            "TPrimos": "Tempo: 1.837 ms",
+            "Tempo Total": "Tempo: 235.557 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 185.007 ms",
+            "TPrimos": "Tempo: 1.802 ms",
+            "Tempo Total": "Tempo: 189.403 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 205.379 ms",
+            "TPrimos": "Tempo: 1.766 ms",
+            "Tempo Total": "Tempo: 209.702 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 194.964 ms",
+            "TPrimos": "Tempo: 1.737 ms",
+            "Tempo Total": "Tempo: 199.225 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 199.356 ms",
+            "TPrimos": "Tempo: 1.784 ms",
+            "Tempo Total": "Tempo: 203.556 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 193.921 ms",
+            "TPrimos": "Tempo: 1.712 ms",
+            "Tempo Total": "Tempo: 198.032 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 201.594 ms",
+            "TPrimos": "Tempo: 1.719 ms",
+            "Tempo Total": "Tempo: 205.729 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 191.660 ms",
+            "TPrimos": "Tempo: 1.723 ms",
+            "Tempo Total": "Tempo: 195.877 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 187.319 ms",
+            "TPrimos": "Tempo: 1.817 ms",
+            "Tempo Total": "Tempo: 191.567 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 195.472 ms",
+            "TPrimos": "Tempo: 1.785 ms",
+            "Tempo Total": "Tempo: 199.754 ms"
+        }
+    ],
+    "C5": [
+        {
+            "TOrdenar": "Tempo: 7.481 ms",
+            "TPrimos": "Tempo: 3.448 ms",
+            "Tempo Total": "Tempo: 16.013 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 7.371 ms",
+            "TPrimos": "Tempo: 3.508 ms",
+            "Tempo Total": "Tempo: 15.787 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 8.072 ms",
+            "TPrimos": "Tempo: 3.459 ms",
+            "Tempo Total": "Tempo: 16.405 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 7.476 ms",
+            "TPrimos": "Tempo: 3.472 ms",
+            "Tempo Total": "Tempo: 15.957 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 8.881 ms",
+            "TPrimos": "Tempo: 3.386 ms",
+            "Tempo Total": "Tempo: 17.103 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 8.130 ms",
+            "TPrimos": "Tempo: 3.496 ms",
+            "Tempo Total": "Tempo: 16.670 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 7.860 ms",
+            "TPrimos": "Tempo: 3.420 ms",
+            "Tempo Total": "Tempo: 16.232 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 7.376 ms",
+            "TPrimos": "Tempo: 3.448 ms",
+            "Tempo Total": "Tempo: 15.785 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 7.815 ms",
+            "TPrimos": "Tempo: 3.454 ms",
+            "Tempo Total": "Tempo: 16.045 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 7.899 ms",
+            "TPrimos": "Tempo: 3.654 ms",
+            "Tempo Total": "Tempo: 16.522 ms"
+        }
+    ],
+    "C6": [
+        {
+            "TOrdenar": "Tempo: 393.421 ms",
+            "TPrimos": "Tempo: 3.536 ms",
+            "Tempo Total": "Tempo: 401.830 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 416.111 ms",
+            "TPrimos": "Tempo: 3.629 ms",
+            "Tempo Total": "Tempo: 425.009 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 406.596 ms",
+            "TPrimos": "Tempo: 3.550 ms",
+            "Tempo Total": "Tempo: 415.008 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 425.018 ms",
+            "TPrimos": "Tempo: 3.541 ms",
+            "Tempo Total": "Tempo: 433.698 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 430.147 ms",
+            "TPrimos": "Tempo: 3.530 ms",
+            "Tempo Total": "Tempo: 438.864 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 423.963 ms",
+            "TPrimos": "Tempo: 3.649 ms",
+            "Tempo Total": "Tempo: 432.628 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 453.014 ms",
+            "TPrimos": "Tempo: 3.597 ms",
+            "Tempo Total": "Tempo: 461.622 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 444.848 ms",
+            "TPrimos": "Tempo: 3.629 ms",
+            "Tempo Total": "Tempo: 453.834 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 421.496 ms",
+            "TPrimos": "Tempo: 3.614 ms",
+            "Tempo Total": "Tempo: 430.484 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 431.460 ms",
+            "TPrimos": "Tempo: 3.691 ms",
+            "Tempo Total": "Tempo: 440.170 ms"
+        }
+    ],
+    "C7": [
+        {
+            "TOrdenar": "Tempo: 38.987 ms",
+            "TPrimos": "Tempo: 19.057 ms",
+            "Tempo Total": "Tempo: 83.596 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 40.139 ms",
+            "TPrimos": "Tempo: 18.312 ms",
+            "Tempo Total": "Tempo: 83.453 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 46.161 ms",
+            "TPrimos": "Tempo: 18.433 ms",
+            "Tempo Total": "Tempo: 91.729 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 47.234 ms",
+            "TPrimos": "Tempo: 23.803 ms",
+            "Tempo Total": "Tempo: 97.531 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 44.266 ms",
+            "TPrimos": "Tempo: 18.768 ms",
+            "Tempo Total": "Tempo: 89.358 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 41.847 ms",
+            "TPrimos": "Tempo: 18.258 ms",
+            "Tempo Total": "Tempo: 86.178 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 49.055 ms",
+            "TPrimos": "Tempo: 21.435 ms",
+            "Tempo Total": "Tempo: 96.572 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 42.588 ms",
+            "TPrimos": "Tempo: 18.727 ms",
+            "Tempo Total": "Tempo: 88.770 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 40.916 ms",
+            "TPrimos": "Tempo: 18.342 ms",
+            "Tempo Total": "Tempo: 86.146 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 41.603 ms",
+            "TPrimos": "Tempo: 21.463 ms",
+            "Tempo Total": "Tempo: 90.193 ms"
+        }
+    ],
+    "C8": [
+        {
+            "TOrdenar": "Tempo: 2502.031 ms",
+            "TPrimos": "Tempo: 19.581 ms",
+            "Tempo Total": "Tempo: 2547.300 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 2861.906 ms",
+            "TPrimos": "Tempo: 18.705 ms",
+            "Tempo Total": "Tempo: 2907.717 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 2258.268 ms",
+            "TPrimos": "Tempo: 17.837 ms",
+            "Tempo Total": "Tempo: 2302.121 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 2319.344 ms",
+            "TPrimos": "Tempo: 18.089 ms",
+            "Tempo Total": "Tempo: 2362.239 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 2181.066 ms",
+            "TPrimos": "Tempo: 17.445 ms",
+            "Tempo Total": "Tempo: 2230.541 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 2203.859 ms",
+            "TPrimos": "Tempo: 20.989 ms",
+            "Tempo Total": "Tempo: 2251.531 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 2429.595 ms",
+            "TPrimos": "Tempo: 17.452 ms",
+            "Tempo Total": "Tempo: 2471.823 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 2166.106 ms",
+            "TPrimos": "Tempo: 17.480 ms",
+            "Tempo Total": "Tempo: 2207.896 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 2201.167 ms",
+            "TPrimos": "Tempo: 17.846 ms",
+            "Tempo Total": "Tempo: 2243.649 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 2300.444 ms",
+            "TPrimos": "Tempo: 18.207 ms",
+            "Tempo Total": "Tempo: 2343.584 ms"
+        }
+    ],
+    "C9": [
+        {
+            "TOrdenar": "Tempo: 85.763 ms",
+            "TPrimos": "Tempo: 35.299 ms",
+            "Tempo Total": "Tempo: 169.589 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 77.558 ms",
+            "TPrimos": "Tempo: 35.105 ms",
+            "Tempo Total": "Tempo: 162.907 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 87.965 ms",
+            "TPrimos": "Tempo: 35.664 ms",
+            "Tempo Total": "Tempo: 173.893 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 81.641 ms",
+            "TPrimos": "Tempo: 35.691 ms",
+            "Tempo Total": "Tempo: 168.368 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 78.775 ms",
+            "TPrimos": "Tempo: 35.720 ms",
+            "Tempo Total": "Tempo: 165.517 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 80.506 ms",
+            "TPrimos": "Tempo: 36.399 ms",
+            "Tempo Total": "Tempo: 168.417 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 81.983 ms",
+            "TPrimos": "Tempo: 35.586 ms",
+            "Tempo Total": "Tempo: 168.788 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 88.251 ms",
+            "TPrimos": "Tempo: 35.388 ms",
+            "Tempo Total": "Tempo: 173.709 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 80.387 ms",
+            "TPrimos": "Tempo: 35.687 ms",
+            "Tempo Total": "Tempo: 166.222 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 83.382 ms",
+            "TPrimos": "Tempo: 35.476 ms",
+            "Tempo Total": "Tempo: 169.412 ms"
+        }
+    ],
+    "C10": [
+        {
+            "TOrdenar": "Tempo: 4548.231 ms",
+            "TPrimos": "Tempo: 34.997 ms",
+            "Tempo Total": "Tempo: 4633.142 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 5174.527 ms",
+            "TPrimos": "Tempo: 37.118 ms",
+            "Tempo Total": "Tempo: 5260.610 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 6976.415 ms",
+            "TPrimos": "Tempo: 36.740 ms",
+            "Tempo Total": "Tempo: 7063.513 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 5017.132 ms",
+            "TPrimos": "Tempo: 36.118 ms",
+            "Tempo Total": "Tempo: 5104.584 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 5688.690 ms",
+            "TPrimos": "Tempo: 36.739 ms",
+            "Tempo Total": "Tempo: 5774.905 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 5885.053 ms",
+            "TPrimos": "Tempo: 37.804 ms",
+            "Tempo Total": "Tempo: 5974.043 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 4928.162 ms",
+            "TPrimos": "Tempo: 36.186 ms",
+            "Tempo Total": "Tempo: 5014.667 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 5729.911 ms",
+            "TPrimos": "Tempo: 37.772 ms",
+            "Tempo Total": "Tempo: 5817.718 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 4979.889 ms",
+            "TPrimos": "Tempo: 35.222 ms",
+            "Tempo Total": "Tempo: 5066.987 ms"
+        },
+        {
+            "TOrdenar": "Tempo: 5062.145 ms",
+            "TPrimos": "Tempo: 36.082 ms",
+            "Tempo Total": "Tempo: 5147.252 ms"
+        }
+    ]
+}

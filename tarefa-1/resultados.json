@@ -1,0 +1,52 @@
+{
+    "C1": {
+        "%TOrdenar": 50.82,
+        "%TPrimos": 19.91,
+        "TMedia": 1.81
+    },
+    "C2": {
+        "%TOrdenar": 95.84,
+        "%TPrimos": 1.71,
+        "TMedia": 21.66
+    },
+    "C3": {
+        "%TOrdenar": 49.07,
+        "%TPrimos": 21.03,
+        "TMedia": 8.69
+    },
+    "C4": {
+        "%TOrdenar": 97.9,
+        "%TPrimos": 0.87,
+        "TMedia": 202.84
+    },
+    "C5": {
+        "%TOrdenar": 48.22,
+        "%TPrimos": 21.38,
+        "TMedia": 16.25
+    },
+    "C6": {
+        "%TOrdenar": 97.99,
+        "%TPrimos": 0.83,
+        "TMedia": 433.31
+    },
+    "C7": {
+        "%TOrdenar": 48.44,
+        "%TPrimos": 22.0,
+        "TMedia": 89.35
+    },
+    "C8": {
+        "%TOrdenar": 98.14,
+        "%TPrimos": 0.77,
+        "TMedia": 2386.84
+    },
+    "C9": {
+        "%TOrdenar": 48.98,
+        "%TPrimos": 21.11,
+        "TMedia": 168.68
+    },
+    "C10": {
+        "%TOrdenar": 98.42,
+        "%TPrimos": 0.66,
+        "TMedia": 5485.74
+    }
+}
